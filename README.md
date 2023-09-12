@@ -1,2 +1,2 @@
-# basic-html-template
-Template for basic html projects or test
+# Admin Dashboard
+Admin Dashboard project for The Odin Project
